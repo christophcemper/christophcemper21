@@ -147,7 +147,7 @@ experience:
 
   - title: Founder & Chief SEO
     company: CEMPER.COM Internet Marketing Services
-    company_url: ''
+    company_url: 'https://www.stateofdigital.com/cemper-announce-linkdetox-new-direction-for-consultancy/'
     location: Vienna
     date_start: '2004-11-01'
     date_end: '2012-09-01'
