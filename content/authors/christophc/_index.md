@@ -14,7 +14,7 @@ organizations:
   url: https://smart.linkresearchtools.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include SEO, software, product marketing, business automation and a lot of geekery.
 
 # Interests to show in About widget
 interests:

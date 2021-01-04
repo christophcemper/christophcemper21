@@ -53,7 +53,7 @@ icon = "comments-dollar"
 label = "Serious business inquiries only, please."
 
 +++
-With all your money, you cannot buy back single hour of your time. But...
+With all your money, you cannot buy back a single hour of your time. But...
 
 * 150% dedication,
 * strong experience,

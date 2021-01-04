@@ -39,3 +39,26 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+
+
+## Regular Talks
+
+### LRT Site Clinic
+Live website audit every week.
+
+[Details to be found here](https://smart.linkresearchtools.com/site-clinic)
+
+## Past Talks
+
+I'm not listing the ca. 200 talks given 2009 to 2019.
+These include conferences with 1000s of people, including
+
+* BrightonSEO
+* SMX New York, Munich, London
+* Super Affiliate Conference Amsterdam
+* SEO Campix
+* SEOkomm
+* LRTcon
+
+## Upcoming talks

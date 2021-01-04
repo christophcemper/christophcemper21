@@ -21,6 +21,11 @@ feature:
   icon_pack: fas
   name: SEO
 
+- description: Link Building, Link Audit, Link Reclamation
+  icon: link
+  icon_pack: fas
+  name: Links
+
 - description: Zapier integrations since 2012
   icon: project-diagram
   icon_pack: fa
@@ -41,7 +46,7 @@ feature:
   icon_pack: fas
   name: Marketing Automation
 
-- description: Xrumer, Scrapebox and 100+
+- description: Xrumer, Scrapebox and 100+ more
   icon: meteor
   icon_pack: fas
   name: SEO Automation
@@ -81,12 +86,6 @@ feature:
   icon: glasses
   icon_pack: fa
   name: CMS
-
-- description: Facebook, Instagram, Twitter, LinkedIn, Youtube, Tiktok
-  icon: hashtag
-  icon_pack: fa
-  name: Social Media
-
 
 - description: Linux, SQL, Docker, Bash
   icon: envelope

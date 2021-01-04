@@ -168,11 +168,45 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Oracle RDBMS based development
-        * OLTP Server development
         * Functional Analysis and Specifications
         * Planning and Conducting of Load Testing
         * Planning and Conducting of Acceptance Testing
+
+        Learnings and Takeaways:
+        * Product quality and results are possible, with the right people
+        * High-pressure projects need high-performing team members
+        * Tight requirements and defect management is possible, but many people have a hard time handling that
+
+  - title: German Enterprise IT
+    company: TLC / DB Systems
+    company_url: 'http://web.archive.org/web/20031004042344/http://dbsystems.bahn.de/cda_inter_cda'
+    location: Vienna
+    date_start: '2001-09-11'
+    date_end: '2003-06-30'
+    description: |2-
+        Responsibilities include:
+
+        * Project Management
+        * Apprentice and Employee Training
+
+  - title: Internet-enabling of ERP Vaporware
+    company: Impress Software AG
+    company_url: 'https://www.impress.com/'
+    location: Vienna
+    date_start: '2000-01-01'
+    date_end: '2001-08-31'
+    description: |2-
+        Responsibilities include:
+
+        * Oracle RDBMS based development
+        * Functional Analysis and Specifications of eCommerce Shops
+        * Managing competence gaps left and right, up and down
+        * Custom non-standard Java/Oracle implementations to interface with SAP
+
+        Learnings and Takeaways:
+        * Product so non-existant that I realized how some companies sell hot air.
+        * Marketing & Sales so bad that I decided to study Marketing & Sales as a techie afterwards.
+        * Operations so bad that the austrian office went bankrupt, letting me wait for months on my salaries.
 
   - title: Online Betting Transation Software
     company: Scientific Games
@@ -189,6 +223,12 @@ experience:
         * Planning and Conducting of Load Testing
         * Planning and Conducting of Acceptance Testing
 
+        Learnings and Takeaways:
+        * Product quality, endurance and performance
+        * Requirements and defect tracking so good I've never seen after, until I implemented it in my company
+        * Tight operations and sales I've only come to appreciate later
+        * Trustful employee management
+
   - title: C64 Computer Games
     company: Jez & Yon
     company_url: 'http://c64.cemper.com/'
@@ -202,5 +242,10 @@ experience:
         * Development of Sounds and Graphics utilities
         * Testing
         * Negotiations with publishers
+
+        Learnings and Takeaways:
+        * Finishing 100%
+        * Contract negotiations
+        * Self-employment roots
 
 ---

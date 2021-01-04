@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 29
 
-title: What you can get
+title: Strengths
 subtitle:
 
 # Showcase personal skills or business features.
@@ -18,7 +18,7 @@ subtitle:
 feature:
 
 
-- description: 100% dedication to delivering WOWs
+- description: 150% dedication to delivering WOWs
   icon: rocket
   icon_pack: fa
   name: Dedication
