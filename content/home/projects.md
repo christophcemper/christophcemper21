@@ -29,6 +29,12 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Charity
+    tag: Charity
+  - name: Education
+    tag: Education
+  - name: C64
+    tag: C64
   - name: Other
     tag: Demo
 

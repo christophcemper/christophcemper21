@@ -1,14 +1,14 @@
 +++
 
-title = "Let's do this."
-weight = 1
+title = "Have you seen enough..."
+weight = 90
 widget = "hero"
 headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "christoph-cemper-pointing.jpg"
+hero_media = "christoph-cemper-asking.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -53,7 +53,9 @@ icon = "comments-dollar"
 label = "Serious business inquiries only, please."
 
 +++
-With all your money, you cannot buy back single hour of your time. But...
+... to make a decision?
+
+Your money cannot buy back single hour of your time. But...
 
 * 150% dedication,
 * strong experience,

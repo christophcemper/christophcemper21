@@ -5,6 +5,10 @@ draft: false
 title: Bring Your Business Life to a new Level – at this sold out event
 type: post
 url: /success/bring-your-business-life-to-a-new-level-at-this-sold-out-event/
+
+# Display this page in the Featured widget?
+featured: true
+
 categories:
 - Personal Development
 - Success
