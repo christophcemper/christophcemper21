@@ -3,6 +3,7 @@ title: Duotris
 summary: Back to the 80ies
 tags:
 - C64
+- Games
 date: "2003-01-27"
 
 # Optional external URL for project (replaces project detail page).
