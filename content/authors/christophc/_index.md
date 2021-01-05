@@ -18,9 +18,9 @@ bio: My interests include SEO, software, product marketing, business automation 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Digital Marketing
+- Recurring Revenue Business
+- Preserving Earth & Energy
 
 # Education to show in About widget
 education:

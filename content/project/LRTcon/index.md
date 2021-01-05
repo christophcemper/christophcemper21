@@ -1,6 +1,6 @@
 ---
-title: Spaghetti Code - the book
-summary: Detangling Life and Work with Programmer Wisdom.
+title: LRTcon
+summary: The only charity conference for link building
 tags:
 - Books
 date: "2017-12-27T00:00:00Z"
@@ -12,16 +12,32 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+tags:
+  - Charity
+  - Education
+
+featured: true
+
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/cemper
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+  url: https://twitter.com/lrtcon
+- name: Get Tickets
+  url: https://store.linkresearchtools.com/purchase/82999-LRTcon-2020-Conference-Plus-Networking
+- name: LRTcon Website
+  url: https://lrtcon.org
+  url_video: 'https://www.youtube.com/watch?v=4a-nyJE0-4A'
+  url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url_code: '#'
+  url_dataset: '#'
+  url_poster: '#'
+  url_project: ''
+  url_slides: ''
+  url_source: '#'
 
+
+##
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

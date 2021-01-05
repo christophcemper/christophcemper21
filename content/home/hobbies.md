@@ -29,10 +29,10 @@ feature:
   name: Photography
 
 
-- description: Native Instruments
+- description: Trance, Techno, House, Psy
   icon: headphones
   icon_pack: fa
-  name: Trance, Techno, EDM
+  name: EDM
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
