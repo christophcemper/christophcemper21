@@ -4,7 +4,7 @@ date: 2017-06-09 19:23:20+00:00
 draft: false
 title: Bring Your Business Life to a new Level – at this sold out event
 type: blog
-url: /blog/learning/success/bring-your-business-life-to-a-new-level-at-this-sold-out-event/
+#url: /blog/learning/success/bring-your-business-life-to-a-new-level-at-this-sold-out-event/
 
 # Display this page in the Featured widget?
 featured: true
@@ -42,27 +42,13 @@ yst_prominent_words:
 
 {{% toc %}}
 
-the-start-of-my-public-speaking-on-link-building-seo-and-marketing-in-general
 
-
-##
-
-
-
-
-This is my story about how the amazing events SEOktoberfest and the one-time sister event “SEO de Janeiro” helped me bring my business to a whole new level.
-
-
-
+This is my story about how the networking event SEOktoberfest and the one-time sister event “SEO de Janeiro” helped me bring my business to a whole new level.
 
 **Here's how it can work the same for you too.**
 
 
-
-
 ## How it all started in Rio
-
-
 
 
 “SEO de Janeiro” was a [special VIP conference](http://www.mediadonis.net/category/seo-de-janeiro/) setup as “sister conference” of the SEOktoberfest. And despite Munich being about 20% of the travel distance and cost, I booked this Rio event last minute sometime late 2008.
@@ -373,7 +359,7 @@ So much that I want you to experience the same, without spending a dime on the t
 
 
 
-[You can join our competition for the last ticket to SEOktoberfest #10 here.](http://www.linkresearchtools.com/seoktoberfest/)
+[The show is over.<x>You can join our competition for the last ticket to SEOktoberfest #10 here.</x>](https://www.linkresearchtools.com/charity/seoktoberfest/)
 
 
 
@@ -394,15 +380,10 @@ that never attended past SEOktoberfest events.
 
 
 
-[Good luck!](http://www.linkresearchtools.com/seoktoberfest/)
-
-
+[Good luck!](https://www.linkresearchtools.com/charity/seoktoberfest/)
 
 
 Please let me know if you have further questions and I’d be happy to help. Meanwhile here's a great trailer with some impressions from the event.
-
-<iframe src="https://player.vimeo.com/video/162833671" allowfullscreen="allowfullscreen" height="360" frameborder="0" width="640"></iframe>
-
 
 
 
@@ -411,8 +392,7 @@ Have a great day from sunny Vienna,
 
 
 
-[caption id="" align="alignnone" width="227"]![Me Christoph C. Cemper at the SEOktoberfest Charity BBQ](http://www.seoktoberfest.net/img/att/christoph.png)
-Me Christoph C. Cemper at the SEOktoberfest Charity BBQ[/caption]
+![Me Christoph C. Cemper at the SEOktoberfest Charity BBQ](http://www.seoktoberfest.net/img/att/christoph.png)*Me Christoph C. Cemper at the SEOktoberfest Charity BBQ*
 
 
 
@@ -429,11 +409,3 @@ LinkResearchTools (LRT)
 Link Detox
 
 Impactana®
-
-
-
-
-
-
-
-PS: What are you doing down here? [When are go join the game](http://www.linkresearchtools.com/seoktoberfest/) - or LEAVE A COMMENT.
