@@ -2,7 +2,7 @@
 title: "CCC Insider: Christoph's Learnings"
 summary: a video series with business and life learnings
 tags:
-- C64
+- Education
 date: "2003-01-27T00:00:00Z"
 
 

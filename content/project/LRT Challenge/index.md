@@ -9,7 +9,7 @@ date: "2017-12-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Image by Ondrej
   focal_point: Smart
 
 tags:

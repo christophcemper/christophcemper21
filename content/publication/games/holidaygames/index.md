@@ -5,6 +5,13 @@ tags:
 - C64
 - Games
 date: "1993-01-27"
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- c64
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,13 +37,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- c64
+
 ---
 
 
