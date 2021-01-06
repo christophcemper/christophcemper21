@@ -4,7 +4,7 @@ date: 2018-02-14 08:11:08+00:00
 draft: false
 title: Why Investing in Your Education Makes All the Difference
 type: blog
-url: /blog/learning/digital-leadership/invest-in-education/
+url: /blog/learning/leadership/invest-in-education/
 categories:
 - Learning
 tags:

@@ -4,7 +4,7 @@ date: 2018-04-18 08:57:38+00:00
 draft: false
 title: Why Taking Ownership Is One of the Secrets Behind Our Success
 type: blog
-url: /blog/learning/digital-leadership/taking-ownership/
+url: /blog/learning/leadership/taking-ownership/
 categories:
 - Learning
 tags:

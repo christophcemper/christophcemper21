@@ -4,7 +4,7 @@ date: 2018-06-13 07:51:34+00:00
 draft: false
 title: The One Leadership Skill You Need to Build a Team You Love
 type: blog
-url: /blog/learning/digital-leadership/leadership-skill/
+url: /blog/learning/leadership/leadership-skill/
 categories:
 - Learning
 tags:

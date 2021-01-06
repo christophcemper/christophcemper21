@@ -4,7 +4,7 @@ date: 2017-11-23 09:03:25+00:00
 draft: false
 title: I work with passion...and so should you!
 type: blog
-url: /blog/learning/digital-leadership/work-with-passion/
+url: /blog/learning/leadership/work-with-passion/
 categories:
 - Learning
 tags:

@@ -4,7 +4,7 @@ date: 2018-01-04 04:32:25+00:00
 draft: false
 title: The Secret to Measuring Success and Results
 type: blog
-url: /blog/learning/digital-leadership/measuring-success/
+url: /blog/learning/leadership/measuring-success/
 categories:
 - Learning
 tags:

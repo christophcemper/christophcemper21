@@ -4,7 +4,7 @@ date: 2018-01-10 08:57:55+00:00
 draft: false
 title: How to Learn Fast and Develop Yourself
 type: blog
-url: /blog/learning/digital-leadership/learn-fast/
+url: /blog/learning/leadership/learn-fast/
 categories:
 - Learning
 tags:

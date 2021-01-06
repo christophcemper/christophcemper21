@@ -4,7 +4,7 @@ date: 2017-12-04 18:53:19+00:00
 draft: false
 title: Do More With Less
 type: blog
-url: /blog/learning/digital-leadership/do-more-with-less/
+url: /blog/learning/leadership/do-more-with-less/
 categories:
 - Digital Leadership
 - Entrepreneurship

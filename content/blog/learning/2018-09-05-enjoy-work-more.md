@@ -4,7 +4,7 @@ date: 2018-09-05 08:24:01+00:00
 draft: false
 title: Want to Enjoy Work More? Do This.
 type: blog
-url: /blog/learning/digital-leadership/enjoy-work-more/
+url: /blog/learning/leadership/enjoy-work-more/
 categories:
 - Learning
 tags:

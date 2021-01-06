@@ -4,7 +4,7 @@ date: 2018-02-28 10:48:23+00:00
 draft: false
 title: Why Embracing and Driving Change Makes All The Difference
 type: blog
-url: /blog/learning/digital-leadership/embracing-and-driving-change/
+url: /blog/learning/leadership/embracing-and-driving-change/
 categories:
 - Learning
 tags:

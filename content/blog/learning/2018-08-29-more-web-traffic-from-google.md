@@ -4,7 +4,7 @@ date: 2018-08-29 07:39:48+00:00
 draft: false
 title: Want More Web Traffic from Google?
 type: blog
-url: /blog/learning/digital-leadership/more-web-traffic-from-google/
+url: /blog/learning/leadership/more-web-traffic-from-google/
 categories:
 - Learning
 tags:

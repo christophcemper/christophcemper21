@@ -66,7 +66,7 @@ And the CEO asks, or answers
 
 
 
-When you're [building your team](https://www.christophcemper.com/digital-leadership/fix-a-hiring-mistake/), investing in your team makes all the difference.
+When you're [building your team](https://www.christophcemper.com/leadership/fix-a-hiring-mistake/), investing in your team makes all the difference.
 
 
 

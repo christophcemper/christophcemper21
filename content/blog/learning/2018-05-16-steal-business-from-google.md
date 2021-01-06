@@ -4,7 +4,7 @@ date: 2018-05-16 07:02:26+00:00
 draft: false
 title: Why You Shouldn’t Steal Business From Google (Do This Instead)
 type: blog
-url: /blog/learning/digital-leadership/steal-business-from-google/
+url: /blog/learning/leadership/steal-business-from-google/
 categories:
 - Learning
 tags:

@@ -54,7 +54,7 @@
   #  edge_handler = "filterRequests"
 
 [[redirects]]
-  from = "/digital-leadership/*"
+  from = "/leadership/*"
   to =   "/blog/learning/leadership/:splat"
   status = 301
   force = true #COMMENT: ensure that we always redirect

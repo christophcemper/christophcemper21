@@ -4,7 +4,7 @@ date: 2018-05-02 07:08:01+00:00
 draft: false
 title: Want to Grow Your Business? Spend Money on Marketing
 type: blog
-url: /blog/learning/digital-leadership/spend-money-on-marketing/
+url: /blog/learning/leadership/spend-money-on-marketing/
 categories:
 - Learning
 tags:

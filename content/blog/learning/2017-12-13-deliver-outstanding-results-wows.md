@@ -4,7 +4,7 @@ date: 2017-12-13 19:26:25+00:00
 draft: false
 title: Deliver Outstanding Results (Wows)
 type: blog
-url: /blog/learning/digital-leadership/deliver-outstanding-results-wows/
+url: /blog/learning/leadership/deliver-outstanding-results-wows/
 categories:
 - Learning
 tags:
