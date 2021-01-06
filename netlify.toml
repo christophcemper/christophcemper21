@@ -27,7 +27,31 @@
 
 [[redirects]]
   from = "/entrepreneurship/*"
-  to =   "/blog/learning/entrepreneurship/splat"
+  to =   "/blog/learning/entrepreneurship/:splat"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 #  edge_handler = "filterRequests"
+
+  from = "/success/*"
+  to =   "/blog/learning/success/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+#  edge_handler = "filterRequests"
+
+  from = "/personal-development/*"
+  to =   "/blog/learning/personal-development/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"
+
+  from = "/digital-marketing/*"
+  to =   "/blog/learning/digital-marketing/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"
+
+  from = "/digital-leadership/*"
+  to =   "/blog/learning/leadership/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"
