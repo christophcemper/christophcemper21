@@ -1,6 +1,6 @@
 ---
 title: LRT Challenge
-summary: The only charity conference for link building
+summary: The LRT Charity Challenge that helped collect $300.000
 tags:
 - Books
 date: "2017-12-27T00:00:00Z"
@@ -44,14 +44,13 @@ slides: example
 ---
 
 
-
-![seoktoberfest-superhero](image191-300x227.png)
-
 # LRT Challenge for the last ticket to the SEOktoberfest
 
-The SEO event that [helped shape lives and careers](/blog/bring-your-business-life-to-a-new-level-at-this-sold-out-event)
+The SEO event that [helped shape lives and careers](/blog/bring-your-business-life-to-a-new-level-at-this-sold-out-event).
 
 ## LinkResearchTools helped collect ≈ $300.000 in charity.
+
+![seoktoberfest-superhero](image191-300x227.png)
 
 LinkResearchTools was the main sponsor of the charity BBQ day  SEOktoberfest charity BBQ
 
@@ -68,12 +67,12 @@ Thousands of SEOs from all around the world joined the challenges for winning th
 The name of the challenge changed over the years from
 
 - SEO Scavenger Hunt
-  to
+to
 - LRT Challenge
 
 but it always involved very challenging tasks, be it writing highly sophisticated case-studies in a race for the most links and social shares over many months, or taking part in a real-time SEO scavenger hunt.
 
- 
+
 
 ![silvia-martin-seo](silvia-martin2-150x150-circle.jpg)
 
@@ -151,7 +150,7 @@ Winner of the LinkResearchTools Challenge for SEOktoberfest V.
 
 ![sebastian-weber](sebastian-weber-150x150-circle.png)
 
-> *I was fortunate enough to win the LinkResearchTools scavenger hunt in 2013, and I can say with confidence: it changed my life!* *Not only meeting the brightest minds in SEO, but actually getting to know them, see what works and what doesn’t and a sense of community that is still there until this day.* 
+> *I was fortunate enough to win the LinkResearchTools scavenger hunt in 2013, and I can say with confidence: it changed my life!* *Not only meeting the brightest minds in SEO, but actually getting to know them, see what works and what doesn’t and a sense of community that is still there until this day.*
 >
 > *It also put me in a position to land my dream job — I met the VP of SEO of TripAdvisor, moved from Germany to the US and am loving every minute of it!*
 >
@@ -159,204 +158,263 @@ Winner of the LinkResearchTools Challenge for SEOktoberfest V.
 
 ## The winners got to spend a week these fine SEO experts from all over the world.
 
+<style>
+.people {
+    color: #FFFFFF;
+    background-color: #c0c0c0;
+    width: 100%;
+    padding: 3rem;
+}
+.people h3 {
+    color: #FFFFFF;
+    text-align: center;
+}
 
+</style>
 
-Alex Schultz
+<div markdown="1" class="people">
+
+### Alex Schultz
 
 ![Alex Schultz](alex-150x150.png)
 
 ![seoktoberfest facebook](facebook.png)
 
-Joost de Valk
+---
+
+### Joost de Valk
 
 ![joost seoktoberfest](joost-1-150x150.png)
 
 ![seoktoberfest yoast](yoast.png)
 
-William Sears
+---
+
+### William Sears
 
 ![william sears](william-150x150.png)
 
 ![linkedin](linkedin-300x76.png)
 
-Robert Hansen
+---
+
+### Robert Hansen
 
 ![Robert-Hansen](Robert-Hansen-150x150.png)
 
 ![seoktoberfest whitehatsec](whitehatsec.png)
 
-Joe Sinkwitz
+---
+
+### Joe Sinkwitz
 
 ![Joe Sinkwitz](joe-150x150.png)
 
 ![seoktoberfest copypress](copypress.png)
 
-Michelle Robbins
+---
+
+### Michelle Robbins
 
 ![michelle_r](michelle_r-150x150.png)
 
 ![seoktoberfest tdm](tdm.png)
 
-Marty Weintraub
+---
+
+### Marty Weintraub
 
 ![Marty Weintraub](marty-150x150.png)
 
 ![aimclear](aimclear.png)
 
-Duane Forrester
+---
+
+### Duane Forrester
 
 ![duane forrester](duane_f-150x150.png)
 
-Bob Rains
+---
+
+### Bob Rains
 
 ![bob-rains](bob-rains-150x150.png)
 
 ![cbs](cbs.png)
 
-Lisa Myers
+---
+### Lisa Myers
 
 ![Lisa Myers](lisa-myers-150x150.png)
 
 ![vervesearch](vervesearch.png)
 
-Dave Naylor
+---
+### Dave Naylor
 
 ![david-naylor](david-naylor-150x150.png)
 
 ![bronco](bronco.png)
 
-Dan Petrovic
+---
+### Dan Petrovic
+
 
 ![dan-petrovic](dan-petrovic-150x150.png)
 
 ![dejanseo](dejanseo.png)
 
-Marcus Tandler
+---
+### Marcus Tandler
 
 ![marcus-tandler](marcus-tandler-150x150.png)
 
 ![onpage.org](onpage.org_.png)
 
-Dennis Goedegebuure
+---
+### Dennis Goedegebuure
 
 ![Dennis-Goedegebuure](Dennis-Goedegebuure-150x150.png)
 
-Kristopher B. Jones
+---
+### Kristopher B. Jones
 
 ![Kristopher B. Jones](Kristopher-B.-Jones-150x150.png)
 
 ![kbj](kbj.png)
 
-Curt Harlinghausen
+---
+### Curt Harlinghausen
 
 ![Curt-Simon-Harlinghausen](Curt-Simon-Harlinghausen-150x150.png)
 
 ![starcom](smg-1.png)
 
-Cindy Krum
+---
+### Cindy Krum
 
 ![Cindy-Krum](Cindy-Krum-150x150.png)
 
 ![mobilemoxie](mobilemoxie.png)
 
-Aleyda Solis
+---
+### Aleyda Solis
 
 ![Ayeda-Solis](Ayeda-Solis-150x150.png)
 
 ![orainti](orainti.png)
 
-Brent Csutoras
+---
+### Brent Csutoras
 
 ![BRENT CSUTORAS](brent-custoras-150x150.png)
 
 ![search engine journal](sej.png)
 
-Fili Wiese
+---
+### Fili Wiese
 
 ![Fili-Wiese](Fili-Wiese-150x150.png)
 
 ![searchbrothers](searchbrothers.png)
 
-Marcus Tober
+---
+### Marcus Tober
 
 ![Marcus-Tober](Marcus-Tober-150x150.png)
 
 ![searchmetrics](searchmetrics.png)
 
-Avi Wilensky
+---
+### Avi Wilensky
 
 ![AVI WILENSKY](avi-wilensky-150x150.png)
 
 ![promediacorp](promediacorp.png)
 
-Michael King
+---
+### Michael King
 
 ![michael-king](michael-king.png)
 
 ![ipullrank](ipullrank.png)
 
-Tom Anthony
+---
+### Tom Anthony
 
 ![tom-anthony](tom-anthony.png)
 
 ![distilled](distilled-300x142.png)
 
-Derek Devlin
+---
+### Derek Devlin
 
 ![Derek Devlin](Dere-_FB_BW-150x150.jpg)
 
 ![derekdevlin](derekdevlin.png)
 
-Jono Alderson
+---
+### Jono Alderson
 
 ![jono-alderson](jono-alderson-150x150.png)
 
-Frank Watson
+---
+### Frank Watson
 
 ![frank-watson](frank-watson-150x150.jpg)
 
-Bastian Grimm
+---
+### Bastian Grimm
 
 ![bastian grimm](bastian-grimm-150x150.jpg)
 
 ![peakace](peakace.png)
 
-Kaspar Szymanski
+---
+### Kaspar Szymanski
 
 ![KasperSzymanski](KasperSzymanski-250x250-150x150.gif)
 
 ![searchbrothers](searchbrothers-1.png)
 
-Carolyn Shelby
+---
+### Carolyn Shelby
 
 ![Carolyn-Shelby](Carolyn-Shelby-150x150.png)
 
 ![tribune](tribune.png)
 
-Sri Sharma
+---
+### Sri Sharma
 
 ![Sri-Sharma](Sri-Sharma-150x150.png)
 
 ![increasingly](increasingly-300x60.png)
 
-Grigory Bakunov
+---
+### Grigory Bakunov
 
 ![Grigory-Bakunov](Grigory-Bakunov-150x150.png)
 
 ![yandex](yandex.png)
 
-Barbara Boser
+---
+### Barbara Boser
 
 ![Barbara Boser](Barbara-Boser-150x150.jpg)
 
 ![itworks](itworkslogo.png)
 
-Greg Boser
+---
+### Greg Boser
 
 ![Greg Boser](Greg-Boser.jpg)
 
 ![foundationdigital](foundationdigital.png)
 
-Tim Mayer
+---
+### Tim Mayer
 
 ![Tim-Mayer](Tim-Mayer-150x150.png)
+
+</div>

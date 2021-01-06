@@ -1,12 +1,12 @@
 ---
 title: LRTcon
-summary: The only charity conference for link building
+summary: The SEO charity conference that helped collect € 43.545
 tags:
 - Books
 date: "2017-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://smart.linkresearchtools.com/linkthing/news/link-building-charity-lrtcon-2019"
 
 image:
   caption: Photo by rawpixel on Unsplash
