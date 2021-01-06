@@ -27,7 +27,7 @@ yst_prominent_words:
 - wows
 ---
 
-[embed]https://youtu.be/B4zc482CxzE[/embed]
+{{< youtube B4zc482CxzE >}}
 
 One of our company’s most important values is to deliver “Wows’.
 

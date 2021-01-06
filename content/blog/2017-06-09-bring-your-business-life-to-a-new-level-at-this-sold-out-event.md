@@ -66,7 +66,7 @@ Back then I’ve been busy building links, building more links and running a ton
 
 
 
-![](https://www.christophcemper.com/wp-content/uploads/2016/07/img_578148684b320.png)
+![](img_578148684b320.png)
 
 
 
@@ -152,7 +152,7 @@ The rest is history. There’s nothing like speaking in front of thousands of pe
 
 
 
-![](https://www.christophcemper.com/wp-content/uploads/2016/07/img_5781487935847.png)
+![](img_5781487935847.png)
 
 
 
@@ -183,7 +183,7 @@ As you can imagine that first speaking gig was a huge success and ignited the ph
 
 
 
-![](https://www.christophcemper.com/wp-content/uploads/2016/07/img_578148856c3c9.png)
+![](img_578148856c3c9.png)
 
 
 
@@ -212,7 +212,7 @@ BUT – the amount of energy and determination to “DIFN” (Do it Fucking Now)
 
 
 
-![](https://www.christophcemper.com/wp-content/uploads/2016/07/img_5781489185013.png)
+![](img_5781489185013.png)
 
 
 
@@ -228,7 +228,7 @@ But then the hustle of course – this image about the “Iceberg Illusion” of
 
 
 
-![](https://www.christophcemper.com/wp-content/uploads/2016/07/img_5781489a8f869.png)
+![](img_5781489a8f869.png)
 
 
 
@@ -262,7 +262,7 @@ _ _
 
 
 
-![](https://www.christophcemper.com/wp-content/uploads/2016/07/img_578148a61d4fc.png)
+![](img_578148a61d4fc.png)
 _ __ _
 
 
@@ -283,7 +283,7 @@ And hey, by looking at Sebastian in this image here at the SEOktoberfest Charity
 
 
 
-![](https://www.christophcemper.com/wp-content/uploads/2016/07/img_578148b8e1f1b.png)
+![](img_578148b8e1f1b.png)
 
 
 
@@ -392,7 +392,7 @@ Have a great day from sunny Vienna,
 
 
 
-![Me Christoph C. Cemper at the SEOktoberfest Charity BBQ](http://www.seoktoberfest.net/img/att/christoph.png)*Me Christoph C. Cemper at the SEOktoberfest Charity BBQ*
+![Me Christoph C. Cemper at the SEOktoberfest Charity BBQ](christoph.png)*Me Christoph C. Cemper at the SEOktoberfest Charity BBQ*
 
 
 

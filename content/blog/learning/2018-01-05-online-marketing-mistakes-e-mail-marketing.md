@@ -24,7 +24,7 @@ yst_prominent_words:
 - point
 ---
 
-[embed]https://youtu.be/S1Yq1LGb414[/embed]
+{{< youtube B4zc482CxzE >}}
 
 Having an e-mail list is one of the most powerful assets a company can have.
 
@@ -59,7 +59,7 @@ With love and respect,
 Christoph C. Cemper
 
 
-![](https://www.christophcemper.com/wp-content/uploads/2018/01/img_5a4ff23f19987.png)
+![](img_5a4ff23f19987.png)
 
 
 

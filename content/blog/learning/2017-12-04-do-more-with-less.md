@@ -30,7 +30,8 @@ yst_prominent_words:
 - work flow
 ---
 
-[embed]https://youtu.be/8gt83RIwT4Q[/embed]
+{{< youtube 8gt83RIwT4Q >}}
+	
 
 Efficiency is one of our company's core values: do more with less. Efficiency can be built over time, as one learns to organize and optimize work flow.
 
@@ -48,7 +49,7 @@ Unnecessarily waiting for weeks before knowing how the market is going to react 
 
 If there is a tool, template or system that can automate or speed up the task of getting the product to the market, one shouldn’t hesitate. And remember, you can always go back and change things later.
 
-![](https://www.christophcemper.com/wp-content/uploads/2017/12/Cemper-ig-pic-1-300x200.jpeg)
+![](Cemper-ig-pic-1-300x200.jpeg)
 
 
 “Do more with less” can be applied to how you organize your company, as well as how you manage your business activities.
@@ -61,7 +62,7 @@ With love and respect,
 
 Christoph C. Cemper
 
-![](https://www.christophcemper.com/wp-content/uploads/2017/12/cemper-signature-300x91.png)
+![](cemper-signature-300x91.png)
 
 
 Watch the full video here: https://youtu.be/8gt83RIwT4Q
