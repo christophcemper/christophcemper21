@@ -59,3 +59,24 @@
   status = 301
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"
+
+[[redirects]]
+  from = "/software-engineering/*"
+  to =   "/blog/learning/software-engineering/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"
+
+[[redirects]]
+  from = "/branding/*"
+  to =   "/blog/learning/branding/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"
+
+[[redirects]]
+  from = "/pricing/*"
+  to =   "/blog/learning/pricing/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"
