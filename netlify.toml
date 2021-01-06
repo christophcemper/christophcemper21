@@ -24,3 +24,10 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "/entrepreneurship/*"
+  to =   "/blog/learning/entrepreneurship/splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+#  edge_handler = "filterRequests"
