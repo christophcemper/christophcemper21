@@ -32,24 +32,28 @@
   force = true #COMMENT: ensure that we always redirect
 #  edge_handler = "filterRequests"
 
+[[redirects]]
   from = "/success/*"
   to =   "/blog/learning/success/:splat"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 #  edge_handler = "filterRequests"
 
+[[redirects]]
   from = "/personal-development/*"
   to =   "/blog/learning/personal-development/:splat"
   status = 301
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"
 
+[[redirects]]
   from = "/digital-marketing/*"
   to =   "/blog/learning/digital-marketing/:splat"
   status = 301
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"
 
+[[redirects]]
   from = "/digital-leadership/*"
   to =   "/blog/learning/leadership/:splat"
   status = 301
