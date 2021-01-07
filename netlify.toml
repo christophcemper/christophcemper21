@@ -88,10 +88,10 @@
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"
 
-
+## fix those paginations
 [[redirects]]
-  from = "/blog/learning/*/page/2/"
-  to =   "/tag/:splat/page/2"
+  from = "/blog/learning/*/page/:page_number/"
+  to =   "/tag/:splat/page/:page_number"
   status = 301
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"
