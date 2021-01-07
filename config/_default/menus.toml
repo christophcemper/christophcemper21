@@ -31,7 +31,7 @@
 
 [[main]]
   name = "TV"
-  url = "/tv/"
+  url = "/on-tv/"
   weight = 50
 
 [[main]]
@@ -42,7 +42,7 @@
 
 [[main]]
   name = "Photos"
-  url = "/photos/"
+  url = "/publication/photos/"
   weight = 60
 
 
