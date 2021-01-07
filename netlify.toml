@@ -112,3 +112,13 @@
   status = 301
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"
+
+## fix those paginations
+
+
+[[redirects]]
+  from = "/blog/learning/success/bring-your-business-life-to-a-new-level-at-this-sold-out-event/"
+  to =   "/blog/bring-your-business-life-to-a-new-level-at-this-sold-out-event/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"

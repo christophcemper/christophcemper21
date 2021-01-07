@@ -28,7 +28,7 @@ publication_short: "Spaghetti Code"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: (C) Christoph C. Cemper
   focal_point: Smart
 
 links:
