@@ -4,7 +4,7 @@ date: 2018-12-26 14:00:20+00:00
 draft: false
 title: Are You Making This Offline Marketing Mistake?
 type: blog
-url: /blog/learning/success/offline-marketing-mistake/
+url: /blog/learning/digital-marketing/offline-marketing-mistake/
 categories:
 - Learning
 tags:

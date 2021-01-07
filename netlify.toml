@@ -68,6 +68,15 @@
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"
 
+
+[[redirects]]
+  from =   "/blog/learning/digital-leadership/:splat"
+  to =   "/blog/learning/leadership/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"
+
+
 [[redirects]]
   from = "/software-engineering/*"
   to =   "/blog/learning/software-engineering/:splat"

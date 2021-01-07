@@ -4,7 +4,7 @@ date: 2019-01-09 10:09:54+00:00
 draft: false
 title: Here’s How to Build the Perfect Team
 type: blog
-url: /blog/learning/success/build-the-perfect-team/
+url: /blog/learning/entrepreneurship/build-the-perfect-team/
 categories:
 - Learning
 tags:
