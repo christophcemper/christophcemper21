@@ -4,7 +4,7 @@ date: 2018-11-28 08:43:27+00:00
 draft: false
 title: What Does the EU Google Penalty Mean for Us?
 type: blog
-url: /blog/learning/success/google-penalty/
+url: /blog/learning/digital-marketing/google-penalty/
 categories:
 - Learning
 tags:
