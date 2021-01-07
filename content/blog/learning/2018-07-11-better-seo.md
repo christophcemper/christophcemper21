@@ -4,7 +4,7 @@ date: 2018-07-11 07:54:45+00:00
 draft: false
 title: How to Grow Your Business With Better SEO
 type: blog
-url: /blog/learning/success/better-seo/
+url: /blog/learning/digital-marketing/better-seo/
 categories:
 - Learning
 tags:
