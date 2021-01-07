@@ -4,7 +4,7 @@ date: 2018-10-10 07:50:37+00:00
 draft: false
 title: How to Fix a Hiring Mistake
 type: blog
-url: /blog/learning/success/fix-a-hiring-mistake/
+url: /blog/learning/leadership/fix-a-hiring-mistake/
 categories:
 - Learning
 tags:

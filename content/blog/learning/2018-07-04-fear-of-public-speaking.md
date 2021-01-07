@@ -4,7 +4,7 @@ date: 2018-07-04 07:46:54+00:00
 draft: false
 title: How to Shift Your Fear of Public Speaking
 type: blog
-url: /blog/learning/success/fear-of-public-speaking/
+url: /blog/learning/personal-development/fear-of-public-speaking/
 categories:
 - Learning
 tags:
