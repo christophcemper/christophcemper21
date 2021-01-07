@@ -4,7 +4,7 @@ date: 2018-04-04 07:38:43+00:00
 draft: false
 title: Why We Increased Our Prices (It Has to Do With Results)
 type: blog
-url: /blog/learning/selling/results-with-linkresearchtools/
+url: /blog/learning/sales/results-with-linkresearchtools/
 categories:
 - Learning
 tags:
@@ -25,7 +25,7 @@ yst_prominent_words:
 ---
 
 	{{< youtube nkqcfg8jQU0 >}}
-	
+
 
 You know:
 
@@ -42,12 +42,12 @@ I sometimes get the question from clients that paid us $300/month, but now need 
 
 
 
-My response? 
+My response?
 
 
 
 
-No, I'm not crazy. Here’s why. 
+No, I'm not crazy. Here’s why.
 
 
 
@@ -87,7 +87,7 @@ We offer that and if you have a large business with dozens or hundreds of millio
 
 
 
-You don't want settle for a small percentage of your backlinks... 
+You don't want settle for a small percentage of your backlinks...
 
 
 
@@ -153,6 +153,3 @@ Want to get results with SEO?
 
 
 Learn more about our LRT Certified Professional Workshops: [http://cemper.co/increasedprices](http://cemper.co/increasedprices)
-
-
-

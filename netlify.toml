@@ -54,7 +54,7 @@
   #  edge_handler = "filterRequests"
 
 [[redirects]]
-  from = "/leadership/*"
+  from = "/digital-leadership/*"
   to =   "/blog/learning/leadership/:splat"
   status = 301
   force = true #COMMENT: ensure that we always redirect
@@ -77,6 +77,13 @@
 [[redirects]]
   from = "/pricing/*"
   to =   "/blog/learning/pricing/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"
+
+[[redirects]]
+  from = "/selling/*"
+  to =   "/blog/learning/sales/:splat"
   status = 301
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"

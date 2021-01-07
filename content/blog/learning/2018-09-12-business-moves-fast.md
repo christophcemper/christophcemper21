@@ -4,7 +4,7 @@ date: 2018-09-12 08:16:12+00:00
 draft: false
 title: How to Keep Up When Business Moves Fast
 type: blog
-url: /blog/learning/success/business-moves-fast/
+url: /blog/learning/entrepreneurship/business-moves-fast/
 categories:
 - Learning
 tags:
