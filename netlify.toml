@@ -87,3 +87,11 @@
   status = 301
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"
+
+
+[[redirects]]
+  from = "/blog/learning/*/page/2/"
+  to =   "/tag/:splat/page/2"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"
