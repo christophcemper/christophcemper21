@@ -9,10 +9,6 @@ date: "2003-01-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 links:
 - icon: twitter
   icon_pack: fab
@@ -109,7 +105,7 @@ I remember how this was the first HTML Table I created in my life.
 
 ## Disk magazine "Magntic Dreams" developed by Chris Cemper
 
-A very popular form of communication in the 80ies was to produce disk magazines. 
+A very popular form of communication in the 80ies was to produce disk magazines.
 
 Today I would describe them as "multimedia text websites on a floppy disk".
 

@@ -17,7 +17,7 @@ projects:
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: The start screen of Holiday Games
   focal_point: Smart
 
 links:
@@ -36,7 +36,6 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
-
 
 ---
 
@@ -71,7 +70,9 @@ Number Of Players: 1 to 4
 
 ![img](holidaygames6.gif)
 
-![img](holidaygames7.gif)
+What is odd today (2021) is that the game apparently didn't support female players. A reminder of old and very inequal times in the 80ies. That the computers were a total male thing in the 80ies. I thought long and hard and I don't remember ever meeting a single female playing the C64.
+
+
 
 ![img](holidaygames8.gif)
 
