@@ -1,0 +1,17 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+
+## ITINF-1527 Redirect domains to christophcemper.com
+# RewriteCond %{HTTP_HOST} ^christophcemper.us [OR]
+# RewriteCond %{HTTP_HOST} ^www.christophcemper.us
+RewriteCond %{HTTP_HOST} ^christophcemper.at [OR]
+RewriteCond %{HTTP_HOST} ^www.christophcemper.at [OR]
+RewriteCond %{HTTP_HOST} ^christophcemper.org [OR]
+RewriteCond %{HTTP_HOST} ^www.christophcemper.org [OR]
+RewriteCond %{HTTP_HOST} ^christophcemper.net [OR]
+RewriteCond %{HTTP_HOST} ^www.christophcemper.net
+RewriteRule ^(.*)$ https://www.christophcemper.com/$1 [L,R=301,QSA]
+
+RewriteCond %{HTTP_HOST} ^c64.cemper.com
+RewriteRule ^(.*)$ https://www.christophcemper.com/projects/c64/$1 [L,R=301,QSA]

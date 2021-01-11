@@ -4,13 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Deutsche Übersetzung in Arbeit - lesen Sie Englisch hier"
-  url = "https://www.christophcemper.com/"
+  name = "Deutsche Version in Arbeit"
+  url = "#"
   weight = 10
 
 [[main]]
   name = "Publikationen"
-  url = "https://www.christophcemper.com/de/publication"
+  url = "publication"
   weight = 30
 
 [[main]]
