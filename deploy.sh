@@ -13,6 +13,6 @@ hugo
 
 cp config/.htaccess public/
 
-rsync -arv --stats -e 'ssh -p 33899' --progress --delete public/ ${USER}@${HOST}:/${DIR}
+rsync -ar --stats -e 'ssh -p 33899' --progress --delete public/ ${USER}@${HOST}:/${DIR}
 
 exit 0

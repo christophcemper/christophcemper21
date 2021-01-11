@@ -125,3 +125,12 @@ Es konnte bestätigt werden, dass Communitymitglieder desto stärker beitragen, 
 ### Statussymbole und Regeln
 
 Die Kenntnis von Statussymbolen, die in der Community für Leistungen vergeben werden, sowie der geltenden Communityregeln trägt signifikant zur Steigerung der Beitragsleistung bei. Die Einführung sowie sympathische und effektive Kommunikation dieser Instrumente ist eine weitere Aufgabe für Communitybetreiber.
+
+
+{{< cta cta_text="Diplomarbeit gratis runterladen" cta_link="Diplomarbeit-Magister-Benutzermotivation_in_virtuellen_Communities_Christoph_C._Cemper_s0310057103.pdf" cta_new_tab="true" >}}
+
+{{% callout note %}} 
+
+Beachten Sie, dass diese Diplomarbeit in den Jahren 2006/2007 erarbeitet wurde. Deshalb sind einige Plattformen vielleicht verändert oder gar geschlossen, wenn Sie die Arbeit lesen.
+
+{{% /callout %}}

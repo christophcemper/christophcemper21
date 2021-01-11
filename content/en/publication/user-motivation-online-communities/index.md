@@ -114,3 +114,12 @@ It could be verified that community members contribute all the more the greater 
 ### Status Symbols and Rules
 
 The knowledge about status symbols that are awarded within the community for efforts and the exercised community rules significantly contribute to increases in contribution efforts. The introduction as well as the friendly and effective communication of these tools is another duty of the community operators.
+
+
+{{< cta cta_text="Download Thesis for free" cta_link="Diplomarbeit-Magister-Benutzermotivation_in_virtuellen_Communities_Christoph_C._Cemper_s0310057103.pdf" cta_new_tab="true" >}}
+
+{{% callout note %}} 
+
+Note that this thesis was researched and written in 2006/2007. Therefore some platforms have changed, maybe even closed when you read this thesis.
+
+{{% /callout %}}
