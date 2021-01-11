@@ -1,40 +1,38 @@
 ---
-author: christophc
-date: 2017-06-09 19:23:20+00:00
 draft: false
-title: Bring Your Business Life to a new Level – at this sold out event
-#type: blog
-#url: /blog/learning/success/bring-your-business-life-to-a-new-level-at-this-sold-out-event/
-
-# Display this page in the Featured widget?
-featured: true
-
-categories:
-- Learning
-tags:
-- Personal Development
-- Success
+author: christophc
 yst_prominent_words:
-- business cards
-- charity bbq
-- de janeiro
-- first speaking gig
-- link detox
-- linkresearchtools lrt
-- people
-- scavenger hunt
-- seo
-- seo de
-- seo de janeiro
-- seo scavenger
-- seo scavenger hunt
-- seoktoberfest
-- 'seoktoberfest #10'
-- seoktoberfest charity
-- seoktoberfest charity bbq
-- speaking gig
-- ticket
-- ticket to seoktoberfest
+  - business cards
+  - charity bbq
+  - de janeiro
+  - first speaking gig
+  - link detox
+  - linkresearchtools lrt
+  - people
+  - scavenger hunt
+  - seo
+  - seo de
+  - seo de janeiro
+  - seo scavenger
+  - seo scavenger hunt
+  - seoktoberfest
+  - "seoktoberfest #10"
+  - seoktoberfest charity
+  - seoktoberfest charity bbq
+  - speaking gig
+  - ticket
+  - ticket to seoktoberfest
+title: Bring Your Business Life to a new Level – at this sold out event
+date: 2017-06-09 19:23:20+00:00
+featured: true
+tags:
+  - Personal Development
+  - Success
+categories:
+  - Learning
+image:
+  filename: img_578148684b320.png
+  preview_only: true
 ---
 
 
