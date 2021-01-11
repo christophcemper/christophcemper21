@@ -106,12 +106,12 @@
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"
 
-[[redirects]]
-  from = "/blog/learning/:cat/:post/"
-  to =   "/blog/learning/:post/"
-  status = 301
-  force = false #COMMENT: ensure that we always redirect
-  #  edge_handler = "filterRequests"
+# [[redirects]]
+#   from = "/blog/learning/:cat/:post/"
+#   to =   "/blog/learning/:post/"
+#   status = 301
+#   force = false #COMMENT: ensure that we always redirect
+#   #  edge_handler = "filterRequests"
 
 
 ## fix those paginations

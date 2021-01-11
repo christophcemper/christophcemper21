@@ -4,7 +4,7 @@ date: 2018-11-07 10:01:40+00:00
 draft: false
 title: Why It’s So Important to Love Your Team
 type: blog
-url: /blog/learning/success/love-your-team/
+url: /blog/learning/entrepreneurship/love-your-team/
 categories:
 - Learning
 tags:
