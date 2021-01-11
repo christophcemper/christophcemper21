@@ -10,6 +10,10 @@ design:
     text_color_light: true
     columns: '1'
 
+tags:
+  - Photo
+date: "2017-01-29"
+
 
 # This file represents a page section.
 headless: false
@@ -19,6 +23,12 @@ weight: 120
 
 title: Photos of Christoph C. Cemper
 subtitle:
+
+image:
+  caption: The start screen of Holiday Games
+  focal_point: Top
+
+
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
