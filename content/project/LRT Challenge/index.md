@@ -14,7 +14,6 @@ image:
 
 tags:
   - Charity
-  - Education
 
 featured: true
 

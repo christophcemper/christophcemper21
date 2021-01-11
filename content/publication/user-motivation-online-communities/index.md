@@ -3,7 +3,7 @@ title: User Motivation in Virtual Communities
 summary: Detangling Life and Work with Programmer Wisdom.
 tags:
 - Books
-date: "2017-12-27T00:00:00Z"
+date: "2007-07-01T00:00:00Z"
 
 abstract: >-
   The aim of the thesis is to explore the necessary proficiencies for the development, maintenance and increase of the motivation of 	users in virtual communities.
@@ -28,7 +28,7 @@ publication_short: "User Motivation in Virtual Communities"
 external_link: ""
 
 image:
-  caption: (C) Christoph C. Cemper
+  caption: Photo by Chris Montgomery on Unsplash
   focal_point: Smart
 
 links:
@@ -36,8 +36,21 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/cemper
+- icon: search
+  icon_pack: fa
+  name: Abstract English
+  url: Master-Thesis-Development_Maintenance_and_Increase_of_User_Motivation_in_Virtual_Communities-s0310057103_abstract_english.pdf
+- icon: search
+  icon_pack: fa
+  name: Abstract German
+  url: Diplomarbeit-Magister-Benutzermotivation_in_virtuellen_Communities_Christoph_C._Cemper_s0310057103_abstract_deutsch.pdf
+- icon: book
+  icon_pack: fa
+  name: Thesis (German only)
+  url: Diplomarbeit-Magister-Benutzermotivation_in_virtuellen_Communities_Christoph_C._Cemper_s0310057103.pdf
+
+
 #url_code: ""
-url_pdf: ""
 #url_slides: ""
 #url_video: ""
 
