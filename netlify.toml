@@ -131,3 +131,11 @@
   status = 301
   force = true #COMMENT: ensure that we always redirect
   #  edge_handler = "filterRequests"
+
+
+[[redirects]]
+  from = "/books/spaghetti-code/"
+  to =   "/publication/spaghetti-code/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+  #  edge_handler = "filterRequests"
