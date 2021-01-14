@@ -4,7 +4,7 @@ date: 2018-06-27 08:04:03+00:00
 draft: false
 title: Want Results? Finish What You Start
 type: blog
-url: /blog/learning/success/finish-what-you-start/
+url: /blog/learning/entrepreneurship/finish-what-you-start/
 categories:
 - Learning
 tags:
