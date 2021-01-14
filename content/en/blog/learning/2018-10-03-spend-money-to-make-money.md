@@ -4,7 +4,7 @@ date: 2018-10-03 08:54:54+00:00
 draft: false
 title: Why You Need to Spend Money to Make Money
 type: blog
-url: /blog/learning/success/spend-money-to-make-money/
+url: /blog/learning/entrepreneurship/spend-money-to-make-money/
 categories:
 - Learning
 tags:
