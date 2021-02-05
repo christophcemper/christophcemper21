@@ -4,7 +4,7 @@ date: 2018-10-24 07:23:01+00:00
 draft: false
 title: Why You Should Invest in Your Team
 type: blog
-url: /blog/learning/success/invest-in-your-team/
+url: /blog/learning/entrepreneurship/invest-in-your-team/
 categories:
 - Learning
 tags:
@@ -24,7 +24,7 @@ yst_prominent_words:
 ---
 
 	{{< youtube AWZre-lbSeU >}}
-	
+
 
 Let's talk about why you should invest in your team.
 
@@ -91,7 +91,7 @@ What did you think?
 
 
 
-Want to invest into your people? 
+Want to invest into your people?
 
 
 
@@ -102,6 +102,3 @@ Make them better marketers and send them to our non-profit link conference LRTco
 
 
 We look forward to seeing you there!
-
-
-

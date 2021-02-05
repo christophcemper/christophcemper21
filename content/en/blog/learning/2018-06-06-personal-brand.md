@@ -4,7 +4,7 @@ date: 2018-06-06 06:17:46+00:00
 draft: false
 title: How the Orange Jacket Became My Personal Brand
 type: blog
-url: /blog/learning/branding/personal-brand/
+url: /blog/learning/entrepreneurship/how-to-build-a-personal-brand/
 categories:
 - Learning
 tags:
