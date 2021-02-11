@@ -4,7 +4,7 @@ date: 2018-10-31 10:39:13+00:00
 draft: false
 title: How to Host a Successful Webinar That Sells
 type: blog
-url: /blog/learning/success/webinar-that-sells/
+url: /blog/learning/digital-marketing/webinar-that-sells/
 categories:
 - Learning
 tags:
