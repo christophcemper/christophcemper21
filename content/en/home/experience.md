@@ -23,6 +23,25 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Game Publisher
+    company: '3D Racing Game - Robin: Race!'
+    company_url: 'https://robinrace.com/steam'
+    location: Vienna
+    date_start: '2020-09-01'
+    date_end: ''
+    description: |2-
+      Robin: Race!
+      Run for your life - and glory!
+
+      It is a superfast 3D third-person cartoon racing game where you run as one of many unique rabbits in 4 beautiful settings and 8 complex levels in the single-player high score- or time trial-mode, or even in LAN / internet multiplayer versus other players cross-platform on Windows, Linux, and Android.
+
+      Responsibilities include:
+
+      * Endless night of worries
+      * Thousand crazy ideas tried and tested
+      * 30 Years of dev experience funneled into one goal
+
+
   - title: Auditor and Moderator
     company: Website Auditing in weekly Live Show "LRT Site Clinic"
     company_url: 'https://smart.linkresearchtools.com/seo-training/seo-site-clinic/'
